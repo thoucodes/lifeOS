@@ -26,6 +26,11 @@ LifeOS aims to become a complete personal operating system where users can:
 The project starts with a simple task management system and will gradually expand into a comprehensive productivity platform.
 
 ---
+## Updated info
+
+*updated feature-plans
+
+---
 
 ## ✨ Current Features
 
