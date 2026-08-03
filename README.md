@@ -192,12 +192,6 @@ If you have ideas for improving LifeOS, feel free to open an issue or submit a p
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👨‍💻 Author
 
 **Mayanglambam Thoungamba Meitei**
