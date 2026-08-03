@@ -183,6 +183,7 @@ life-os/
 LifeOS is a long-term project that will continue to evolve with new technologies and features.
 
 ---
+liscense///
 
 ## 🤝 Contributing
 
